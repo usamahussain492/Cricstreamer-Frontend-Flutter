@@ -1,0 +1,6 @@
+enum Status {
+  NOT_CALLED,
+  LOADING,
+  COMPLETED,
+  ERROR
+}
